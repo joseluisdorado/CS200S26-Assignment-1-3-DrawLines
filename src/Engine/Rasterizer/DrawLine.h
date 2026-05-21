@@ -47,7 +47,7 @@ namespace Rasterizer
 
 	/// @TODO
 	// ------------------------------------------------------------------------
-	/// \fn		DrawLineDDA
+	/// \fn		DrawLineBresenham
 	/// \brief	Draws a line using the Bresenham algorithm presented in class.
 	void DrawLineBresenham(const AEVec2& p1, const AEVec2& p2, const Color& c);
 	/// -----------------------------------------------------------------------
